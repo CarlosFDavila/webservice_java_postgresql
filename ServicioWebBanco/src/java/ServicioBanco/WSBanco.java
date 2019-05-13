@@ -53,7 +53,7 @@ public class WSBanco {
         statement.executeUpdate (sql);
     }
     
-
+//las fechas se meten con una longitud de 10 ejemplo: 2019/05/12
     /**
      * Web service operation
      */
